@@ -24,5 +24,6 @@
     "editor:set-heading-1",
     "editor:set-heading-0",
     "editor:configure-toolbar"
-  ]
+  ],
+  "promptDelete": false
 }

@@ -1,0 +1,4 @@
+- [ ] Write 5 names of people who you want and pray for them everyday 
+- [ ] Pray for your invitees and your or 30 minutes a day till Saturday 
+- [ ] Go for soul winning everyday
+- [ ] Get your plan 

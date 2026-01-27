@@ -104,13 +104,16 @@
             "id": "1401879f7052592e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 302.0565313795297,
+                  "y": 336.7538961515722,
+                  "zoom": -0.5280035185944344
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "Untitled"
             }
           }
@@ -265,8 +268,8 @@
   },
   "active": "1401879f7052592e",
   "lastOpenFiles": [
-    "Found Links.md",
     "Untitled.md",
+    "Found Links.md",
     "6 Mighty Men.md",
     "Untitled.canvas",
     "Holy Ghost Teachings ❤️🔥/2026-01-25.md",

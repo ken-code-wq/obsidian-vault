@@ -5,6 +5,11 @@
 [25] And they beat down the cities, and on every good piece of land cast every man his stone, and filled it; and they stopped all the wells of water, and felled all the good trees: only in Kir-hareseth left they the stones thereof; howbeit the slingers went about it, and smote it. [26] And when the king of Moab saw that the battle was too sore for him, he took with him seven hundred men that drew swords, to break through even unto the king of Edom: but they could not. [27] Then he took his eldest son that should have reigned in his stead, and offered him for a burnt offering upon the wall. And there was great indignation against Israel: and they departed from him, and returned to their own land.
 
 - Every Christian needs the intelligence of alters
-Don't give God your conditions 
-There is a prayer we pray when the battle is too Sore
-At the junction of fulfillment of prophecy,there is always a contention 
+- Don't give God your conditions 
+- There is a prayer we pray when the battle is too Sore
+- At the junction of fulfillment of prophecy,there is always a contention 
+
+- Hosea 12:3-4 KJV
+	[3] He took his brother by the heel in the womb, and by his strength he had power with God: [4] yea, he had power over the angel, and prevailed: he wept, and made ==supplication== unto him: he found him in Beth-el, and there he spake with us; 
+
+- faith is a product 

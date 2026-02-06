@@ -4,8 +4,11 @@
 - [ ] Get your plan 
 
 
-## @ 1st February 2025
+## @ 1st February 2026
 - [ ] Go to member's rooms to listen to messages to them, with their roommates if possible 
 - [ ] Get in touch with Benedicta from Great Pride
 	- [ ] Pray for her
-- [ ] 
+
+
+## @ 6th February 2026
+- [ ] checkup on Mariam conti

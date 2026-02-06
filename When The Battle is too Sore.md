@@ -1,0 +1,3 @@
+- Not knowing how to do something would not get you the results 
+- 2 Kings 3:25
+	- 

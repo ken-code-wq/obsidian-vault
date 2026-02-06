@@ -20,4 +20,16 @@
 - prayer and Supplication 
 	- prayer is the content
 	- Supplication is the attitude 
+- Ephesians 6:18 KJV
+	[18] praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints; 
+	- This is why w cannot over emphasize praying in the spirit 
+-
+
+
+# Mechanics of Supplication 
+## 1. Involve your emotions 
+- what does not bother you would never border God
 - 
+
+
+

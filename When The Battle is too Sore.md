@@ -6,3 +6,4 @@
 
 - Every Christian needs the intelligence of alters
 Don't give God your conditions 
+There is a prayer we pray when the battle is too Sore

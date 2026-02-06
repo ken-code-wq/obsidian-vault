@@ -14,4 +14,10 @@
 	- Supplication is what beings the supply
 
 - faith is a product 
+- The spirit cannot be poured without Supplication 
+- Supplication is what beings the intervention 
+- when the battle is too Sore you have to change the battle ground 
+- prayer and Supplication 
+	- prayer is the content
+	- Supplication is the attitude 
 - 

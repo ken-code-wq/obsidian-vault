@@ -11,5 +11,7 @@
 
 - Hosea 12:3-4 KJV
 	[3] He took his brother by the heel in the womb, and by his strength he had power with God: [4] yea, he had power over the angel, and prevailed: he wept, and made ==supplication== unto him: he found him in Beth-el, and there he spake with us; 
+	- Supplication is what beings the supply
 
 - faith is a product 
+- 

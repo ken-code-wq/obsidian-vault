@@ -42,7 +42,10 @@
 	- this is not why I am heare
 - God blessed with a name
 - [ ] get at least 3 scriptures on the matter
-- [ ] 
+	- [ ] Isaiah 61:11
+	- [ ] 
+- when you are approaching alters you have to have a cause
+- when you're praying the rayer let those sculptures come put
 
 
 

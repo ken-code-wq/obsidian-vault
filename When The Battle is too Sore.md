@@ -30,9 +30,19 @@
 ## 1. Involve your emotions 
 - what does not bother you would never border God
 - Hebrews 5:7 KJV
-	[7] Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared; 
-	- 
+	[7] Who in the days of his flesh, when he had offered up prayers and supplications with **==strong crying==** and tears unto him that was able to save him from death, and was heard in that he feared; 
+- prayer is the only thing that can go ahead of you and wait for you 
+- 
 
+## 2. Use the Word of God
+- Psalm 119:170 KJV
+	[170] Let my supplication come before thee: Deliver me according to thy word.
+- the reason for the Supplication is not for God to hear you but for you to make hlter mitigations/interventions 
+- [ ] sit down and think of the 'problem'
+	- this is not why I am heare
+- God blessed with a name
+- [ ] get at least 3 scriptures on the matter
+- [ ] 
 
 
 

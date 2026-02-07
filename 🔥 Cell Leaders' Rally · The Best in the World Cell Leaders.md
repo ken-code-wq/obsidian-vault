@@ -45,9 +45,12 @@
 	- Impact is fought for, 
 - In commitment you participate, in dedication you stay until it yields results
 - Dedication consumes you on behalf of the work
+- '21For to me to live is Christ, and to die is gain. '  
+  
 
-| Commitment | Dedication |     |     |     |
-| ---------- | ---------- | --- | --- | --- |
-|            |            |     |     |     |
-|            |            |     |     |     |
-|            |            |     |     |     |
+
+| Commitment | Dedication |
+| ---------- | ---------- |
+|            |            |
+|            |            |
+|            |            |

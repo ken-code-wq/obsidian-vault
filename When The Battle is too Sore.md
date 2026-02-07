@@ -43,9 +43,14 @@
 - God blessed with a name
 - [ ] get at least 3 scriptures on the matter
 	- [ ] Isaiah 61:11
+	- [ ] 3 John 1:2
+	- [ ] Genesis 49:10
+	- [ ] Psalm 110:3
 	- [ ] 
 - when you are approaching alters you have to have a cause
 - when you're praying the rayer let those sculptures come put
+- there are some prayers you can't pray standing 
+- 
 
 
 

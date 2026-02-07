@@ -7,4 +7,6 @@
 - Commitment is a promise of participation
 - A declared willingness to be involved
 - It is verbal it is emotional and it is situational
-- Commitment is convie
+- Commitment is convinient
+- It answers the question, "Am I willing?"
+- Commitment is event-based

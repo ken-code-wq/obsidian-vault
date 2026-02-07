@@ -14,3 +14,5 @@
 - Commitment is a good place to start, but commitment alone does not get the job done
 - It is condition dependent
 	- If the conditions favour you, you are there
+- I am going to be God's Ideal Cell Leader
+- C

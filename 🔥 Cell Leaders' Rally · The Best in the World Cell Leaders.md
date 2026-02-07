@@ -46,3 +46,8 @@
 - In commitment you participate, in dedication you stay until it yields results
 - Dedication consumes you on behalf of the work
 
+| Commitment | Dedication |     |     |     |
+| ---------- | ---------- | --- | --- | --- |
+|            |            |     |     |     |
+|            |            |     |     |     |
+|            |            |     |     |     |

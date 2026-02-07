@@ -52,11 +52,11 @@
 - Commitment joins the vision, dedication bleeds for the vision
 - Jesus was not only committed to His purpose, He was dedicated to it
 - Hebrews 12:2
-	- s
+	- [2]looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God. '  
 - Commitment is what gets you in the room, dedication is what enthrones you
 - The gap between Davids annointting and enthronement is dedication
 - Commitment says I belong to this, dedication says I was made for this
-- A commited cell leader does not see his purpose in the things 
+- A commited cell leader does not see his purpose in the things he is doing
   
 
 | Commitment | Dedication |

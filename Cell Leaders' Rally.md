@@ -12,4 +12,5 @@
 - Commitment is event-based
 	- It depends of the matter of the moment
 - Commitment is a good place to start, but commitment alone does not get the job done
-- It is condition depende
+- It is condition dependent
+	- If the conditions favour you, you are there

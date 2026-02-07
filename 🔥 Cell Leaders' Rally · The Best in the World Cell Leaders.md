@@ -25,4 +25,5 @@
 	- [57]And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest. [58] And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head. [59] And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father. '  [60] Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God
 	- He should've followed Jesus first, then gone to bury
 	- This is God's mind, this is how He ranks things
-	- 
+- Commitment can get people in the room, but **DEDICATION** keeps them in the work
+- 

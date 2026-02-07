@@ -34,4 +34,5 @@
 - Commitment is orientation based, but dedication is sacrifice based, not on your decisions
 - Commitment is decision-driven, dedication is cost-bearing
 - You bear the cost of your cell thriving
-- Commitment is agreement focused
+- Commitment is agreement focused, dedication is outcome focused
+- Focuses on the results, on a

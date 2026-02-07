@@ -39,4 +39,5 @@
 - Share in the burden of your pastor, of your leader
 - See yourself as a fellowship leader
 - **==Even it takes only me, the halls would be full==**
-- When you give yourself to something you align with it, you show up for it, you parti
+- When you give yourself to something you align with it, you show up for it, you participate with it
+- 

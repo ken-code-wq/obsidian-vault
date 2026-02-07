@@ -10,3 +10,5 @@
 - Commitment is convinient
 - It answers the question, "Am I willing?"
 - Commitment is event-based
+	- It depends of the matter of the moment
+- Commitment is a good place to

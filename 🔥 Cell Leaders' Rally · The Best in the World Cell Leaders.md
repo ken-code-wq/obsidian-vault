@@ -47,7 +47,9 @@
 - Dedication consumes you on behalf of the work
 - Philippians 1:21  
 	- [21]For to me to live is Christ, and to die is gain. '  
-- Commitment can coexist with confort dedication can take away com
+- Commitment can coexist with confort dedication can take away comfort
+- Commitment participates when convenient, dedication preserves when costly
+- Commitment joins the vision, 
   
 
 | Commitment | Dedication |

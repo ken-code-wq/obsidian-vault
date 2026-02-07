@@ -54,7 +54,9 @@
 - Hebrews 12:2
 	- s
 - Commitment is what gets you in the room, dedication is what enthrones you
-- The gap between Davids annointing and enthronement is dedication
+- The gap between Davids annointting and enthronement is dedication
+- Commitment says I belong to this, dedication says I was made for this
+- A commited cell leader does not see his purpose in the things 
   
 
 | Commitment | Dedication |

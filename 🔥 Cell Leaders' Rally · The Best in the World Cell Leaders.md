@@ -53,7 +53,8 @@
 - Jesus was not only committed to His purpose, He was dedicated to it
 - Hebrews 12:2
 	- s
-- Commitment is what gets you in the room, dedicatoin
+- Commitment is what gets you in the room, dedication is what enthrones you
+- The gap between Davids annointing and enthronement is dedication
   
 
 | Commitment | Dedication |

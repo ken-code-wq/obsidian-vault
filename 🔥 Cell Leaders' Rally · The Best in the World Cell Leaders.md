@@ -30,4 +30,4 @@
 - Commitment says I will try, dedication says I have arranged my life
 - A dedicated one has ordered his life to fulfill God's purpose
 - A dedicated one has taken extra steps of action in his life to make sure he fulfills it
-- Commitment is giving 
+- Commitment is giving yourself to an assignment, dedication is giving yourself for an assignment

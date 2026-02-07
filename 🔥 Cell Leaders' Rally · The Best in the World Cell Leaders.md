@@ -26,4 +26,4 @@
 	- He should've followed Jesus first, then gone to bury
 	- This is God's mind, this is how He ranks things
 - Commitment can get people in the room, but **DEDICATION** keeps them in the work
-- 
+- The backbone of the church is the dedicated members, not the commited memn

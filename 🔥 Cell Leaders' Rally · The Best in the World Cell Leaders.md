@@ -28,4 +28,6 @@
 - Commitment can get people in the room, but **DEDICATION** keeps them in the work
 - The backbone of the church is the dedicated members, not the commited members
 - Commitment says I will try, dedication says I have arranged my life
-- A dedicated one h
+- A dedicated one has ordered his life to fulfill God's purpose
+- A dedicated one has taken extra steps of action in his life to make sure he fulfills it
+- Commitment is giving 

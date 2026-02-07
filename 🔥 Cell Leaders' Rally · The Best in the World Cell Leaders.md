@@ -31,7 +31,7 @@
 - A dedicated one has ordered his life to fulfill God's purpose
 - A dedicated one has taken extra steps of action in his life to make sure he fulfills it
 - Commitment is giving yourself to an assignment, dedication is giving yourself for an assignment
-- Commitment is orientation based, but dedication is sacrifice based
+- Commitment is orientation based, but dedication is sacrifice based, not on your decisions
 - Commitment is decision-driven, dedication is cost-bearing
 - You bear the cost of your cell thriving
-- 
+- Commitment is agreement focused

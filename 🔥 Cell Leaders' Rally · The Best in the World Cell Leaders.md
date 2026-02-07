@@ -20,3 +20,5 @@
 	- When pressure hits, their commitment fades
 	- They are highly volatile under pressure
 - Commitment begins well, but negotiates often
+- It won't get the work done, it won't get seeing the result, it won't get God trusting you with more
+- 

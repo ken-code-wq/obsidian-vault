@@ -1,0 +1,7 @@
+- [ ] Card for questions (with logo on the back)
+- [ ] Microphone stand
+- [ ] High Chairs
+- [ ] Backdrop design 
+- [ ] Jesus My Vow, placard
+- [ ] Welcome to service card design 
+- [ ] Tag design for ushers and choir and departments

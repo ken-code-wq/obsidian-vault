@@ -1,0 +1,2 @@
+- Your focus should always be kingdom first
+- That is how to balance everything and the kingdom ministry

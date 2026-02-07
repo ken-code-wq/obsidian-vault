@@ -1,7 +1,7 @@
 Charlie, I know the struggle—the distance from the halls (especially typical "diaspora" hostels or off-campus locations like Ayeduase/Kotei) to the lecture halls (like the Great Hall or CAS) is no joke, especially under the Kumasi sun.
 Since you are a 4th-year Math student, I have designed this response to give you the raw data you need and then structure it into a Queueing Theory Model (M/M/c) and a System Dynamics framework that you can actually use for a project or thesis.
 Part 1: The Raw Data (The Inputs)
-To build a realistic simulation, you need to feed the model with these current real-world statistics found from recent KNUST admissions and transport reports:
+To build a realistic simulation, you need to feed the model with these current real-hiworld statistics found from recent KNUST admissions and transport reports:
  * Student Population Explosion (Arrival Rate \lambda):
    * 2019/2020 Intake: ~22,011 students.
    * 2024/2025 Intake: A massive jump to ~50,895 admitted (with ~26,000 fully registered freshmen).

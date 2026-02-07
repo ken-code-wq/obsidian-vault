@@ -42,5 +42,6 @@
 - When you give yourself to something you align with it, you show up for it, you participate with it, but you still retain the right to renegotiate
 - Commitment connects you to the work, in dedication you absorb it's cost
 - The cost of impact is great
-	- Impact is c
+	- Impact is fought for, 
+- In commitment you participate, in dedication you stay until it yields results
 

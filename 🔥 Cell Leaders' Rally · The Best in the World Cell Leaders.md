@@ -44,4 +44,5 @@
 - The cost of impact is great
 	- Impact is fought for, 
 - In commitment you participate, in dedication you stay until it yields results
+- Dedication consumes you on behalf of the work
 

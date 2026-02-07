@@ -32,4 +32,6 @@
 - A dedicated one has taken extra steps of action in his life to make sure he fulfills it
 - Commitment is giving yourself to an assignment, dedication is giving yourself for an assignment
 - Commitment is orientation based, but dedication is sacrifice based
-- C
+- Commitment is decision-driven, dedication is cost-bearing
+- You bear the cost of your cell thriving
+- 

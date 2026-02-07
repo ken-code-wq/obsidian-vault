@@ -37,4 +37,4 @@
 - Commitment is agreement focused, dedication is outcome focused
 - Focuses on the results, on achieving, on winning
 - Share in the burden of your pastor, of your leader
-- See yours
+- See yourself as a fellowship leader

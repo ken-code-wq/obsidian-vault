@@ -21,4 +21,5 @@
 	- They are highly volatile under pressure
 - Commitment begins well, but negotiates often
 - It won't get the work done, it won't get seeing the result, it won't get God trusting you with more
-- 
+- Luke 9:57-59
+	- [57]And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest. 58And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head. 59And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father. '  

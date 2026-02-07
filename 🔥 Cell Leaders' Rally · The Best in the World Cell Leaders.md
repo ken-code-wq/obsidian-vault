@@ -51,6 +51,9 @@
 - Commitment participates when convenient, dedication preserves when costly
 - Commitment joins the vision, dedication bleeds for the vision
 - Jesus was not only committed to His purpose, He was dedicated to it
+- Hebrews 12:2
+	- s
+- Commitment is what gets you in the room, dedicatoin
   
 
 | Commitment | Dedication |

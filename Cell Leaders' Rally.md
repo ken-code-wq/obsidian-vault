@@ -14,5 +14,9 @@
 - Commitment is a good place to start, but commitment alone does not get the job done
 - It is condition dependent
 	- If the conditions favour you, you are there
-- I am going to be God's Ideal Cell Leader
+- ==I am going to be God's Ideal Cell Leader==
 - Commitment is sustained by motivation
+- A commited leader is vulnerable to pressure
+	- When pressure hits, their commitment fades
+	- THey are highly volatile under pressure
+- 

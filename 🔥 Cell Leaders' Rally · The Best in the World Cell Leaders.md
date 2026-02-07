@@ -26,7 +26,7 @@
 	- He should've followed Jesus first, then gone to bury
 	- This is God's mind, this is how He ranks things
 - Commitment can get people in the room, but **DEDICATION** keeps them in the work
-- The backbone of the church is the dedicated members, not the commited members
+- The backbone of the church is the dedicated members, not the committed members
 - Commitment says I will try, dedication says I have arranged my life
 - A dedicated one has ordered his life to fulfill God's purpose
 - A dedicated one has taken extra steps of action in his life to make sure he fulfills it
@@ -49,7 +49,8 @@
 	- [21]For to me to live is Christ, and to die is gain. '  
 - Commitment can coexist with confort dedication can take away comfort
 - Commitment participates when convenient, dedication preserves when costly
-- Commitment joins the vision, 
+- Commitment joins the vision, dedication bleeds for the vision
+- Jesus was not only committed to His purpose, He was dedicated to it
   
 
 | Commitment | Dedication |

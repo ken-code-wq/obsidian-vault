@@ -38,3 +38,4 @@
 - Focuses on the results, on achieving, on winning
 - Share in the burden of your pastor, of your leader
 - See yourself as a fellowship leader
+- Even it takes only me, the halls would be full

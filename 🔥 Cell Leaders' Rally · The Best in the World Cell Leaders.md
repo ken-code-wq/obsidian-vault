@@ -39,5 +39,6 @@
 - Share in the burden of your pastor, of your leader
 - See yourself as a fellowship leader
 - **==Even it takes only me, the halls would be full==**
-- When you give yourself to something you align with it, you show up for it, you participate with it
+- When you give yourself to something you align with it, you show up for it, you participate with it, but you still retain the right to renegotiate
+- Commitment connects you to the work, in dedication 
 - 

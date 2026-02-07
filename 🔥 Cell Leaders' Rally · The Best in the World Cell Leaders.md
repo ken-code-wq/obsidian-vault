@@ -35,4 +35,5 @@
 - Commitment is decision-driven, dedication is cost-bearing
 - You bear the cost of your cell thriving
 - Commitment is agreement focused, dedication is outcome focused
-- Focuses on the results, on a
+- Focuses on the results, on achieving, on winning
+- 

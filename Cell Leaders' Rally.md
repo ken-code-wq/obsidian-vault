@@ -15,4 +15,4 @@
 - It is condition dependent
 	- If the conditions favour you, you are there
 - I am going to be God's Ideal Cell Leader
-- C
+- Commitment is sustained by motivation

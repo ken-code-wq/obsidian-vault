@@ -162,7 +162,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 • 02 • 08 • Sons of God 3.md",
+                "file": "Sunday Services/2026 • 02 • 08 • Sons of God 3.md",
                 "mode": "preview",
                 "source": false
               },
@@ -262,8 +262,8 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2026 • 02 • 08 • Sons of God 3.md",
-            "collapseAll": false,
+            "file": "Sunday Services/2026 • 02 • 08 • Sons of God 3.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -319,10 +319,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b17f2e260568a08",
+  "active": "15b5916ae5ee4f4e",
   "lastOpenFiles": [
     "Sunday Services/2026 • 01 • 25 • Sons of God.md",
-    "2026 • 02 • 08 • Sons of God 3.md",
+    "Sunday Services/2026 • 02 • 08 • Sons of God 3.md",
     "When The Battle is too Sore.md",
     "PFCC4 Meeting Media Needs.md",
     "Untitled",

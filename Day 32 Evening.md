@@ -21,3 +21,6 @@
 	- INTERNATIONAL CONTRACTS ARE COMING TO ME THIS YEAR 
 	- Foreign contacts
 	- wisdom for all circumstances, wisdom for my business,for my cell, for my ministry, for my family, for my finances, for my education, fory craftsmanship, wisdom for everything I do 
+	- The word of God is strengthening my hands
+	- The Word of God is strengthening the hands of the partners
+		- I have been strengthened to 

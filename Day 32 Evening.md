@@ -17,4 +17,5 @@
 - 1 Peter 2:9(KJV , TPT)
 	- [ ] a chosen generation 
 	- God wants my life to show forth His praises 
+	- I WOULD BROADCAST HIS GLORIOUS WONDERS
 	- 

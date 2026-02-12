@@ -29,3 +29,29 @@
 	- The one who was one let him become ten
 	- I have been chosen by God for this
 	- think SOLUTION
+
+
+
+I am empowered fpr success 
+I am empowered for victory
+
+I can do all things through Christ who strengthens me
+
+All things work together to favour me
+
+I am never handicapped 
+I always have
+I am blessed
+I have solutions,I have answers
+I provide, answers and solutions to men
+I have understanding , supernatural understanding 
+I have wisdom, supernatural wisdom, I have knowledge,I know things by the spirit
+
+The spirit of wisdom and knowledge and understanding 
+
+- I will do well this year
+- I would help many people 
+- the blessing works for me
+
+- [ ] read the seven spirits of God
+

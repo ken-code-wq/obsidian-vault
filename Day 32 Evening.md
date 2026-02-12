@@ -26,3 +26,4 @@
 		- I have been strengthened to get money for partnership 
 	- The Lord is increasing the grace, with wisdom and knowledge and understanding 
 	- Divine promotion 
+	- The one who was one let him become 10

@@ -14,3 +14,4 @@
 	- I would understand complex things 
 	- God wants me to build 
 	- God is building His people 
+- 

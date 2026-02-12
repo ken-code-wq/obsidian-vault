@@ -10,4 +10,7 @@
 		- you will build that business 
 		- you will build it 
 	- the LORD would make me exceptionally skilled 
-- this year I would walk in the spirit of wisdom understanding and kno
+	- this year I would walk in the spirit of wisdom understanding and knowledge 
+	- I would understand complex things 
+	- God wants me to build 
+	- God is building His people 

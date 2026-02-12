@@ -9,4 +9,5 @@
 	- this year you will build 
 		- you will build that business 
 		- you will build it 
-	- the LORD would m
+	- the LORD would make me exceptionally skilled 
+- this year I would walk in the spirit of wisdom understanding and kno

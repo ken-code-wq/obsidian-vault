@@ -18,4 +18,5 @@
 	- [ ] a chosen generation 
 	- God wants my life to show forth His praises 
 	- I WOULD BROADCAST HIS GLORIOUS WONDERS
-	- 
+	- INTERNATIONAL CONTRACTS ARE COMING TO ME THIS YEAR 
+	- Foreign contacts

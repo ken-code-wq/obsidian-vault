@@ -1,0 +1,12 @@
+- Deuteronomy 8:17-18
+	- [ ] He giveth power to get wealth 
+	- we would see the power to get wealth 
+	- it is time to build 
+	- the LORD would build me this year
+		- my life my family 
+- Exodus 31:1-5 (KJV, NLT)
+	- [ ] I have called upon Bezeleel 
+	- this year you will build 
+		- you will build that business 
+		- you will build it 
+	- the LORD would m

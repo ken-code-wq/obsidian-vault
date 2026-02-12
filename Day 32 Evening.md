@@ -14,4 +14,7 @@
 	- I would understand complex things 
 	- God wants me to build 
 	- God is building His people 
-- 
+- 1 Peter 2:9(KJV , TPT)
+	- [ ] a chosen generation 
+	- God wants my life to show forth His praises 
+	- 

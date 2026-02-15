@@ -11,7 +11,14 @@
 	[26] But when the Father sends the Advocate as my representative—that is, the Holy Spirit—he will teach you ==everything== and will remind you of everything I have told you.
 	- The role of the Holy Spirit in our lives is to teach us and leave us
 - God never left us here without direction 
-- 
+- God's plan for me for the Holy Spirit is fellowship 
+- Proverbs 3:5-6 KJV
+	[5] Trust in the LORD with all thine heart; And lean not unto thine own understanding. 
+	[6] In all thy ways acknowledge him, And he shall ==direct== thy paths.
+	- He leads you follow
+
+
+
 
 
 

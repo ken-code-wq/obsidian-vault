@@ -23,7 +23,8 @@
 	[14] But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
 	- It takes training 
 	- God does not raise sisis He raises Kings
-
+- Peace is God's designed natural habitat for man 
+- Look out for peace
 
 
 

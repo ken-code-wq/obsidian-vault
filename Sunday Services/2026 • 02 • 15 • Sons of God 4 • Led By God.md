@@ -31,9 +31,10 @@
 	[6] Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. [7] And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
 	- Stop being too careful and too anxious 
 - Be solution driven
+- [ ] 🔑 The ability to multiply things come from the power of God
+- [ ] 🔑 But when things are going wrong it means they are not compliant so talk to them to comply
+- 🔑 Maturity comes with a level of calmness and inward stability where things can shake around you but you are firm
 - 
-
-
 
 
 

@@ -19,6 +19,12 @@
 - you walk on the walk of faith alone
 - Revelation 3:20 KJV
 	[20] Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me. 
+- Hebrews 5:14 KJV
+	[14] But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
+	- It takes training 
+	- God does not raise sisis He raises Kings
+
+
 
 
 

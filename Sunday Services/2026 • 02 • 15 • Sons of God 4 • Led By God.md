@@ -37,7 +37,12 @@
 - John 14:27 KJV
 	[27] Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid. 
 - The scriptures are my blueprint 
-- 
+- Matthew 5:9 KJV
+	[9]  Blessed are the peacemakers: for they shall be called the children of God.
+	- Jesus Christ gave us His peace so that we share it around 
+
+
+
 
 
 

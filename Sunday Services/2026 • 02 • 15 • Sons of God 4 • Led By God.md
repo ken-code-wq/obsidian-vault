@@ -79,6 +79,8 @@
 3. Memorize - 2 Timothy 1:7 KJV
 4. Make powerhouse flyers
 5. Use the night prayers for intercession and Qt for PT 
+6. Update confessions with prophecies and pay attention to them
+7. 
 
 
 
@@ -88,4 +90,4 @@
 3. He is sending me help
 4. God is clearing and purifying my mind and help
 5. He is helping me
-6. 
+6. I am recieving wisdom to handle members

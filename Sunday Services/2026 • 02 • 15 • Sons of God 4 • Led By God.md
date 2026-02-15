@@ -34,7 +34,11 @@
 - [ ] 🔑 The ability to multiply things come from the power of God
 - [ ] 🔑 But when things are going wrong it means they are not compliant so talk to them to comply
 - 🔑 Maturity comes with a level of calmness and inward stability where things can shake around you but you are firm
+- John 14:27 KJV
+	[27] Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid. 
 - 
+
+
 
 
 
@@ -56,6 +60,7 @@
 
 ## Action Plans 📍
 1. What is the solution to any problem you are facing?
+2. Like no o el c d
 
 
 ## Prophecies 🔥

@@ -91,3 +91,6 @@
 4. God is clearing and purifying my mind and help
 5. He is helping me
 6. I am recieving wisdom to handle members
+7. The LORD is outdoing Himself in my life
+8. He is prospering me
+9. He is removing from a place of uncertainty into a place of clarity

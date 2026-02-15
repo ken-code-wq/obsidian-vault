@@ -77,7 +77,8 @@
 1. What is the solution to any problem you are facing?
 2. Like no o el c d
 3. Memorize - 2 Timothy 1:7 KJV
+4. Make powerhouse f
 
 
 ## Prophecies 🔥
-1. 
+1. Brethren are lifted 

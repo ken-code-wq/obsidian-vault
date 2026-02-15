@@ -45,6 +45,9 @@
 - Proverbs 15:1 KJV
 	[1] A soft answer turneth away wrath: But grievous words stir up anger.
 
+- 2 Timothy 1:7 KJV
+	[7] For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind. 
+
 
 
 
@@ -73,6 +76,7 @@
 ## Action Plans 📍
 1. What is the solution to any problem you are facing?
 2. Like no o el c d
+3. Memorize - 2 Timothy 1:7 KJV
 
 
 ## Prophecies 🔥

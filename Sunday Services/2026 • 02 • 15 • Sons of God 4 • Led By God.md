@@ -17,7 +17,11 @@
 	[6] In all thy ways acknowledge him, And he shall ==direct== thy paths.
 	- He leads you follow
 - you walk on the walk of faith alone
-- 
+- Revelation 3:20 KJV
+	[20] Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me. 
+
+
+
 
 
 

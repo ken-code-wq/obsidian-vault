@@ -86,4 +86,6 @@
 1. Brethren are lifted 
 2. He is healing me
 3. He is sending me help
-4. Go
+4. God is clearing and purifying my mind and help
+5. He is helping me
+6. 

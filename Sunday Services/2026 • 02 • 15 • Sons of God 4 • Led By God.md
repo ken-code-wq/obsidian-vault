@@ -40,6 +40,12 @@
 - Matthew 5:9 KJV
 	[9]  Blessed are the peacemakers: for they shall be called the children of God.
 	- Jesus Christ gave us His peace so that we share it around 
+- Learn not to put your emotions ahead of you 
+- Learn to be a peacemaker 
+- Proverbs 15:1 KJV
+	[1] A soft answer turneth away wrath: But grievous words stir up anger.
+
+
 
 
 

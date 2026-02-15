@@ -77,8 +77,13 @@
 1. What is the solution to any problem you are facing?
 2. Like no o el c d
 3. Memorize - 2 Timothy 1:7 KJV
-4. Make powerhouse f
+4. Make powerhouse flyers
+5. Use the night prayers for intercession and Qt for PT 
+
 
 
 ## Prophecies 🔥
 1. Brethren are lifted 
+2. He is healing me
+3. He is sending me help
+4. Go

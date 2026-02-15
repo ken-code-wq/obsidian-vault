@@ -16,6 +16,8 @@
 	[5] Trust in the LORD with all thine heart; And lean not unto thine own understanding. 
 	[6] In all thy ways acknowledge him, And he shall ==direct== thy paths.
 	- He leads you follow
+- you walk on the walk of faith alone
+- 
 
 
 

@@ -30,7 +30,8 @@
 - Philippians 4:6-7 KJV
 	[6] Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. [7] And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
 	- Stop being too careful and too anxious 
-
+- Be solution driven
+- 
 
 
 
@@ -53,7 +54,7 @@
 
 
 ## Action Plans 📍
-1. J
+1. What is the solution to any problem you are facing?
 
 
 ## Prophecies 🔥

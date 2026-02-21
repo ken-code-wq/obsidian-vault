@@ -18,6 +18,12 @@
 - This year the gospel prospers in my hands
 - God is sending money to me,for the sake of the house
 - grace for financial giants
+- financial miracles
+- the two became 200
+- Everyday money is coming in
+- your hands will touched money everyday 
+- this year I will give out of abundance not our od scarcity 
+- a everyday money would come into my business 
 - 
 
 

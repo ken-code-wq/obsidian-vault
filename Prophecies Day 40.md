@@ -27,6 +27,18 @@
 - 
 
 
+Deuteronomy 26:15
+- God has given us the Advantage in this year
+- The Lord has brought us into His place
+- into His protection into His supply into His grace
+- God has brought us into His place 
+- That secret place 
+- My testimony of the year shall be different 
+- it shall be victories,songs of Joy,songs of praise thanks
+- no lamentations 
+- 
+
+
 
 ## Action Plans 
 1. Listen to HGC

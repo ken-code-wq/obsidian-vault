@@ -16,6 +16,10 @@
 
 ## 2 Corinthians 9:8
 - This year the gospel prospers in my hands
+- God is sending money to me,for the sake of the house
+- grace for financial giants
+- 
+
 
 
 ## Action Plans 

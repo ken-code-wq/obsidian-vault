@@ -36,9 +36,12 @@ Deuteronomy 26:15
 - My testimony of the year shall be different 
 - it shall be victories,songs of Joy,songs of praise thanks
 - no lamentations 
-- d
+- 
 
-
+- The Lord has beautified my life
+- my family is beautiful 
+- the lives of all around me are beautiful 
+- 
 
 ## Action Plans 
 1. Listen to HGC

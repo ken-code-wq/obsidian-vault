@@ -1,4 +1,4 @@
-## Pre
+## Acts 2:47
 - The Lord is giving me grace 
 - He is releasing grace
 - What you could not do before,God is releasing the gracefor it
@@ -10,9 +10,12 @@
 
 
 
-## 
+## Acts 4:33
 
 
+
+## 2 Corinthians 9:8
+- This year the gospel prospers in my hands
 
 
 ## Action Plans 

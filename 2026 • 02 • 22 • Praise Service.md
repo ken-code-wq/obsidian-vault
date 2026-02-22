@@ -31,7 +31,12 @@ When God answers you, He answers you:
 		- this year looks for peace
 	- Isaiah 30:21 KJV
 		[21] and thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left. 
-	- 
+	- Isaiah 62:7 KJV
+		[7] and give him no rest, till he establish, and till he make Jerusalem a praise in the earth. 
+
+
+
+
 
 
 

@@ -29,7 +29,12 @@ When God answers you, He answers you:
 		[6] Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. 
 		[7] And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
 		- this year looks for peace
-		- 
+	- Isaiah 30:21 KJV
+		[21] and thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left. 
+	- 
+
+
+
 
 
 

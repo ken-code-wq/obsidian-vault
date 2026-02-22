@@ -7,7 +7,8 @@
 - God does not hide His heart from us
 - God is not nonchalant to us
 - He demonstrates His love His heart to us 
-
+- Psalm 103:7
+- 
 
 
 

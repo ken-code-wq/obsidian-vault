@@ -18,7 +18,7 @@ When God answers you, He answers you:
 		- [ ] God's word in my life is potent. I am going to see it
 	- Isaiah 41:15 KJV
 		[15] Behold, I will make thee a new sharp threshing instrument having teeth: thou shalt thresh the mountains, and beat them small, and shalt make the hills as chaff. 
-	- 
+	- this year 
 
 
 
@@ -39,3 +39,6 @@ When God answers you, He answers you:
 4. I am healthy 
 5. The divine life of God is at work in my body
 6. The word is working in my life 
+7. This year I will see signs,the signs would follow me
+8. This year I would rather be healing people 
+9. This year I am a dispenser of divine verities 

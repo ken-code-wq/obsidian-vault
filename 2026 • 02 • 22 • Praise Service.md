@@ -4,4 +4,7 @@
 - when we are praising and thanking God it has more to do with your heart than your physical performance 
 - before God would do something with you He would start with your spirit
 - your heart should be a place ready to praise God
+- God does not hide His heart from us
+- God is not nonchalant to us
+- He demonstrates His love His heart to us 
 - 

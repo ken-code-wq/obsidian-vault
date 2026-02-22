@@ -24,6 +24,15 @@ When God answers you, He answers you:
 
 
 	- 
+2. Peace
+	- Philippians 4:6-7 KJV
+		[6] Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. 
+		[7] And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
+		- this year looks for peace
+		- 
+
+
+
 
 
 
@@ -42,3 +51,6 @@ When God answers you, He answers you:
 7. This year I will see signs,the signs would follow me
 8. This year I would rather be healing people 
 9. This year I am a dispenser of divine verities 
+10. This year I'll handle moneys like never before
+11. this year I would not lack anything 
+12. This year the Lord is my helper

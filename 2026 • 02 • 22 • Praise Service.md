@@ -16,13 +16,20 @@ When God answers you, He answers you:
 		[8] See, I have given you this land. Go in and take possession of the land the Lord swore he would give to your fathers—to Abraham, Isaac and Jacob—and to their descendants after them.”
 		- God gave them the land, the word
 		- [ ] God's word in my life is potent. I am going to see it
-		- 
+	- Isaiah 41:15 KJV
+		[15] Behold, I will make thee a new sharp threshing instrument having teeth: thou shalt thresh the mountains, and beat them small, and shalt make the hills as chaff. 
+	- 
+
+
+
+
+	- 
 
 
 
 
 ## Action Plans 
-
+1. Listen to sound code
 
 
 ## Prophecies 
@@ -31,3 +38,4 @@ When God answers you, He answers you:
 3. I am establishing you 
 4. I am healthy 
 5. The divine life of God is at work in my body
+6. The word is working in my life 

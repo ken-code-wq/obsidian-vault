@@ -7,4 +7,14 @@
 - God does not hide His heart from us
 - God is not nonchalant to us
 - He demonstrates His love His heart to us 
-- 
+
+
+
+
+
+## Action Plans 
+
+
+
+## Prophecies 
+1. This year expect mounting up

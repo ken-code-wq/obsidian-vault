@@ -33,6 +33,14 @@ When God answers you, He answers you:
 		[21] and thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left. 
 	- Isaiah 62:7 KJV
 		[7] and give him no rest, till he establish, and till he make Jerusalem a praise in the earth. 
+3. Joy
+	- Joy is a fruit of the spirit
+	- Joy is only in the Holy Ghost 
+	- Romans 14:17 KJV
+		[17] for the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.
+	 - 
+
+
 
 
 

@@ -10,6 +10,14 @@
 - Psalm 103:7
 - 
 
+When God answers you, He answers you:
+1. With His words
+	- Deuteronomy 1:8 NIV
+		[8] See, I have given you this land. Go in and take possession of the land the Lord swore he would give to your fathers—to Abraham, Isaac and Jacob—and to their descendants after them.”
+		- God gave them the land, the word
+		- [ ] God's word in my life is potent. I am going to see it
+		- 
+
 
 
 
@@ -19,3 +27,5 @@
 
 ## Prophecies 
 1. This year expect mounting up
+2. I have given that land
+3. I am establishing you 

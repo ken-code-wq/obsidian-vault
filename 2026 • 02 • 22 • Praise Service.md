@@ -18,7 +18,7 @@ When God answers you, He answers you:
 		- [ ] God's word in my life is potent. I am going to see it
 	- Isaiah 41:15 KJV
 		[15] Behold, I will make thee a new sharp threshing instrument having teeth: thou shalt thresh the mountains, and beat them small, and shalt make the hills as chaff. 
-	- this year 
+	- Give the power to God not the system
 
 
 

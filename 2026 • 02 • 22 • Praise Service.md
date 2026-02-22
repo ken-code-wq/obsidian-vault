@@ -29,3 +29,5 @@ When God answers you, He answers you:
 1. This year expect mounting up
 2. I have given that land
 3. I am establishing you 
+4. I am healthy 
+5. The divine life of God is at work in my body

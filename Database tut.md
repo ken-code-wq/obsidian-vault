@@ -75,6 +75,8 @@ When they behilf you, they are becoming
 4. Friendship 
 5. Name
 
+God is backing me as their leader
+I can understand but I would not accept
 
 
 

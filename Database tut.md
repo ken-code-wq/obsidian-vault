@@ -56,7 +56,16 @@ We have faith because of agore faithfulness
 
 Take responsibility 
 
+Listen to ==God in operations==
 
+
+
+
+
+
+
+Take attendance in BSCs
+If you teach them how to go about things they would pick it up
 
 
 

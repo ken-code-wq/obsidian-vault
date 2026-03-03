@@ -78,6 +78,9 @@ When they behilf you, they are becoming
 God is backing me as their leader
 I can understand but I would not accept
 
+- [ ] How toove from a to b
+
+
 
 
 

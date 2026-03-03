@@ -69,6 +69,12 @@ When they behilf you, they are becoming
 "First time I prayed for 4 hours"
 - [ ] keep telling your brethren your sacrifices
 - [ ] tell the sacrifices that gave you testimonies
+1. Power 
+2. Impact
+3. Results
+4. Friendship 
+5. Name
+
 
 
 

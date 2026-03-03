@@ -66,6 +66,14 @@ Listen to ==God in operations==
 
 Take attendance in BSCs
 If you teach them how to go about things they would pick it up
+Make them love cell ministry
+You are the one who conditions your cell 
+You regulate the temperature of the cell
+"When you start getting active I'll make you a BSCT"
+If your brethren would love cell meeting it'll depend on you
+
+
+
 
 
 

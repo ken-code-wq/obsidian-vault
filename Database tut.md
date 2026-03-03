@@ -1,0 +1,4 @@
+- the first people on tour database should be leaders and greens
+- you are to be the first
+- add colour code to the number area 🚥
+- 

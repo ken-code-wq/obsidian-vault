@@ -60,6 +60,11 @@ Listen to ==God in operations==
 You get your kind
 Everyone coming to you is of your kind
 When you give birth they all have a lady of you
+When they behilf you, they are becoming
+
+
+1. I am the example to them
+2. You tell them
 
 
 

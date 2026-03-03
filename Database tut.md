@@ -34,5 +34,7 @@
 - one of your agenda should be to love cell ministry 
 - "If you are willing to do it, you can go it"
 - Will to love c
+- A lot of people want to do the work, but they don't love the ministry
+- Everyone can do cell ministry
 
 

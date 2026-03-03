@@ -84,7 +84,11 @@ I can understand but I would not accept
 
 - [ ] Show your members to sister Ama after every meeting 
 
-- [ ] XDA
+- [ ] Give your brethren responsibilities,like call this 
+
+- [ ] Treat PFCC meeting as Sunday service 
+
+- [ ] Go to your fellowship leaders for the target 
 
 
 

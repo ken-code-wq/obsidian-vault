@@ -50,6 +50,13 @@ When I call the people they are coming
 
 It is on the not seeing that you would build stamina
 
+We don't trust in the fact that I prayed it went for soul winning but because God said munlqbour would never be in vain
+
+We have faith because of agore faithfulness
+
+Take responsibility 
+
+
 
 
 

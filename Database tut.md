@@ -84,7 +84,7 @@ I can understand but I would not accept
 
 - [ ] Show your members to sister Ama after every meeting 
 
-- [ ] 
+- [ ] XDA
 
 
 

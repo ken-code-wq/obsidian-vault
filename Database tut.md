@@ -27,5 +27,12 @@
 - every time someone quits something their why is gone
 - "reason to live is reason to die"
 - my members are the reason why I am going through what I am going through 
-- 
+- God has commited this ministry to me
+- Every cell leader is God's friend
+- want to do anything for God,your friend 
+- if you want to love cell ministry you will love cell ministry 
+- one of your agenda should be to love cell ministry 
+- "If you are willing to do it, you can go it"
+- Will to love c
+
 

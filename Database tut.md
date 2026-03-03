@@ -36,5 +36,10 @@
 - Will to love c
 - A lot of people want to do the work, but they don't love the ministry
 - Everyone can do cell ministry
+- peoples safe haven is my cell
+- if you love something it is evident
+- love is expressive
+- if you love your cell we would see it
+- 
 
 

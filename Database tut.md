@@ -57,6 +57,9 @@ We have faith because of agore faithfulness
 Take responsibility 
 
 Listen to ==God in operations==
+You get your kind
+Everyone coming to you is of your kind
+When you give birth they all have a lady of you
 
 
 

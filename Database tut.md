@@ -80,7 +80,11 @@ I can understand but I would not accept
 
 - [ ] How toove from a to b
 
+- [ ] Get your brethren to your leaders meeting 
 
+- [ ] Show your members to sister Ama after every meeting 
+
+- [ ] 
 
 
 

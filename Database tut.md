@@ -46,6 +46,10 @@
 You're not doing cell ministry alone,so stop being proud and go to the Holy Ghost 
 When you're a cell leader you have entered a contract with God 
 Ministry is easy
-When I call the people they
+When I call the people they are coming 
+
+It is on the not seeing that you would build stamina
+
+
 
 

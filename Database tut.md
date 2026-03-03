@@ -65,6 +65,10 @@ When they behilf you, they are becoming
 
 1. I am the example to them
 2. You tell them
+"First time I prayed for 4 hours"
+- [ ] keep telling your brethren your sacrifices
+- [ ] tell the sacrifices that gave you testimonies
+
 
 
 

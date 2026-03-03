@@ -40,6 +40,9 @@
 - if you love something it is evident
 - love is expressive
 - if you love your cell we would see it
-- 
+
+
+
+You're not doing cell ministry alone,so stop being proud and go to 
 
 

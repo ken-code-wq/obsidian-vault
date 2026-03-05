@@ -60,12 +60,15 @@ Power is the
 - my words carry power
 - worrying does nothing 
 - I have the ability of demonstrating the power of God
-- 
+- You can't be walking with God and no body is seeing anything
+- I SM GOING TO DEMONSTRATE THE POWER KF GOD TO MY GENERATION
+- The power of God is for every Christian 
 
 
 
 
 ## Action Plans 📍 
 - [ ] Pray for Bilz this night and go to her hostel to cast the typhoid out
+- [ ] START MEDITATING, ADD IT TO THE SCHEDULE
 
 

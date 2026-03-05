@@ -57,6 +57,13 @@ Power is the
 	[10] Finally, my brethren, be strong in the Lord, and in the power of his might. 
 - Kratos
 - The power tou generate through fasting and prayers is called Kratos 
+- my words carry power
 - 
+
+
+
+
+## Action Plans 📍 
+- [ ] Pray for Bilz this night and go to her hostel to cast the typhoid out
 
 

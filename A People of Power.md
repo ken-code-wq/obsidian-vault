@@ -46,7 +46,8 @@ Power is the
 
 - Ephesians 3:20 KJV
 	[20] Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, 
-- You cause the things to yappen
-
+- You cause the things to happen
+- a man has to defend God, to prove God, I am that man
+- 
 
 

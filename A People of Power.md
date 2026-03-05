@@ -48,6 +48,15 @@ Power is the
 	[20] Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, 
 - You cause the things to happen
 - a man has to defend God, to prove God, I am that man
+- Ephesians 3:20 KJV
+
+[20] Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, 
+- How much of the power is at work in you 
+- it is according to the power at work in you 
+- Ephesians 6:10 KJV
+	[10] Finally, my brethren, be strong in the Lord, and in the power of his might. 
+- Kratos
+- The power tou generate through fasting and prayers is called Kratos 
 - 
 
 

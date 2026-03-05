@@ -59,6 +59,7 @@ Power is the
 - The power tou generate through fasting and prayers is called Kratos 
 - my words carry power
 - worrying does nothing 
+- I have the ability of demonstrating the power of God
 - 
 
 

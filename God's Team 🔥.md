@@ -56,7 +56,19 @@
 - Love everyday like you love Lord Jesus not like He is coming 
 - Necessity has been laid on me
 - If God can share His burden with you He can share His wealth with you 
-- 
+
+
+
+## Things that Bind a team
+1. Unity in Identity 
+	- Matthew 12:30 KJV
+		[30] He that is not with me is against me; and he that gathereth not with me scattereth abroad.
+	- There is no middle ground
+	- 
+
+
+
+
 
 - [ ] 
 

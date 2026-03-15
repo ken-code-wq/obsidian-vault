@@ -45,6 +45,9 @@
 	[19] Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: 
 - I have grace of God working in my life
 - The grace comes with the instructions
+- Romans 5:20 KJV
+	[20] Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound: 
+- To every terrible sin you hear there is a terribler grace available 
 - 
 
 

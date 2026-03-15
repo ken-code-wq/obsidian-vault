@@ -54,6 +54,8 @@
 
 ## 3. Understand the Timing 
 - Love everyday like you love Lord Jesus not like He is coming 
+- Necessity has been laid on me
+- If God can share His burden with you He can share His wealth with you 
 - 
 
 - [ ] 

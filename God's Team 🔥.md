@@ -17,7 +17,8 @@
 - Hebrews 10:25 KJV
 	[25] not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
 - 
-
+- There are no mistakes with God
+- 
 
 
 

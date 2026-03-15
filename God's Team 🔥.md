@@ -48,10 +48,15 @@
 - Romans 5:20 KJV
 	[20] Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound: 
 - To every terrible sin you hear there is a terribler grace available 
+
+
+
+
+## 3. Understand the Timing 
+- Love everyday like you love Lord Jesus not like He is coming 
 - 
 
-
-
+- [ ] 
 
 
 

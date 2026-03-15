@@ -5,6 +5,8 @@
 - Run that you may obtain
 - Every team is put together because of a purpose
 - there are mobs and teams, God does not use mobs
+
+## 1. Understand the Purpose 
 - You have to understand the purpose of our kingdom
 	- To do that you have to understand the vision 
 - Revelation 11:15 KJV
@@ -19,6 +21,18 @@
 - 
 - There are no mistakes with God
 - 
+
+
+## 2. Understand the Coach
+- The coach is the Holy Spirit
+- You cannot do anything for God without the Holy Spirit 
+- You can't achieve anything without the Holy Spirit 
+- The Holy Ghost makes Christianity alive in me
+- Acts 1:8 KJV
+	[8] But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth. 
+- 
+
+
 
 
 

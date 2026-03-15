@@ -76,8 +76,18 @@
 	- Revelation 3:15-16 KJV
 		[15] I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot.
 		[16] So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth. 
+	- Psalm 133:1-3 KJV
+		[1] Behold, how good and how pleasant it is For brethren to dwell together in unity! 
+		[2]  It is like the precious ointment upon the head, that ran down upon the beard, Even Aaron's beard: That went down to the skirts of his garments; 
+		[3] As the dew of Hermon, And as the dew that descended upon the mountains of Zion: For there the LORD commanded the blessing, Even life for evermore.
+2. What you represent
+	- Are you conscious that you represent God ?
+	- Philippians 1:21 KJV
+		[21] For to me to live is Christ, and to die is gain. 
 	- 
-2. 
+
+
+
 
 
 

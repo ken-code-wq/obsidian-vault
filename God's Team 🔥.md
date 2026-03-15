@@ -64,8 +64,16 @@
 	- Matthew 12:30 KJV
 		[30] He that is not with me is against me; and he that gathereth not with me scattereth abroad.
 	- There is no middle ground
-	- 
+	- You cannot be on God's team and not believe that Jesus is the only way
+	- Jesus is the only way to reach God
+	- 2 Corinthians 5:17-18 KJV
+		[17] Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new. 
+		[18] And all things are of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation; 
 
+## Things your identity reflects 
+1. What you stand for
+	- You cannot support 2 teams
+2. 
 
 
 

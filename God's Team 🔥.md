@@ -73,6 +73,10 @@
 ## Things your identity reflects 
 1. What you stand for
 	- You cannot support 2 teams
+	- Revelation 3:15-16 KJV
+		[15] I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot.
+		[16] So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth. 
+	- 
 2. 
 
 

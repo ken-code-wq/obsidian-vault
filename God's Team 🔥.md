@@ -30,8 +30,22 @@
 - The Holy Ghost makes Christianity alive in me
 - Acts 1:8 KJV
 	[8] But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth. 
-- 
+- You cannot walk this Christian walk without the Holy Ghost 
+- Holy Ghost is the one who will keep your fire ablaze
+- He is the one who gives the formation of the Goal the Soul
+- He is the one who gives you the strategy for your life
+- Holy Ghost is concerned about my entire life
 
+
+
+## 3. Understand the Grace 
+
+- Matthew 28:18-19 KJV
+	[18] And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth. 
+	[19] Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: 
+- I have grace of God working in my life
+- The grace comes with the instructions
+- 
 
 
 

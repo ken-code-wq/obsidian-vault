@@ -15,12 +15,9 @@
 	[14] I press toward the mark for the prize of the high calling of God in Christ Jesus. 
 - It is not enough to be saved,there is more to do
 - Hebrews 10:25 KJV
+	[25] not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
+- 
 
-[25] not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
-
-
-
-https://bible.com/bible/1/heb.10.25.KJV
 
 
 

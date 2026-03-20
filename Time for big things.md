@@ -3,6 +3,7 @@ Acts 26:4 KJV
 - From your youth you should be making global impact
 - You don't have the luxury to grow to 50 or 60 years 
 - You don't have a lot of time to make great impact
+- 
 
 
 
@@ -11,3 +12,4 @@ Acts 26:4 KJV
 - [ ] I cannot do small things again
 - [ ] I build men
 - [ ] Men are coming to me
+- [ ] 

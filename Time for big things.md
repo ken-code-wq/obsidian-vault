@@ -12,4 +12,3 @@ Acts 26:4 KJV
 - [ ] I cannot do small things again
 - [ ] I build men
 - [ ] Men are coming to me
-- [ ] 

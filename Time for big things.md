@@ -6,6 +6,7 @@ Acts 26:4 KJV
 - 
 
 That same God can do it in KNUST, with me, with my cell
+Passion always comes as a capital to every young person
 
 
 

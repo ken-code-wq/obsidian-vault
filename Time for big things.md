@@ -17,6 +17,7 @@ Habakkuk 1:1 KJV
 - It all starts with a burden
 - At this point all the 
 - A man without a burden is not qualified to do anything for God
+- If you follow the road you can get to the result. PASTOR OLGA
 - 
 
 

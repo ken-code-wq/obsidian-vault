@@ -5,6 +5,7 @@ Acts 26:4 KJV
 - You don't have a lot of time to make great impact
 - 
 
+That same God can do it in KNUST, with me, with my cell
 
 
 
@@ -12,3 +13,5 @@ Acts 26:4 KJV
 - [ ] I cannot do small things again
 - [ ] I build men
 - [ ] Men are coming to me
+- [ ] People would be rushing to church,to Powerhouse 
+- [ ] 

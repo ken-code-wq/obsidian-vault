@@ -1,0 +1,57 @@
+- Deuteronomy 8:17-18
+	- [ ] He giveth power to get wealth 
+	- we would see the power to get wealth 
+	- it is time to build 
+	- the LORD would build me this year
+		- my life my family 
+- Exodus 31:1-5 (KJV, NLT)
+	- [ ] I have called upon Bezeleel 
+	- this year you will build 
+		- you will build that business 
+		- you will build it 
+	- the LORD would make me exceptionally skilled 
+	- this year I would walk in the spirit of wisdom understanding and knowledge 
+	- I would understand complex things 
+	- God wants me to build 
+	- God is building His people 
+- 1 Peter 2:9(KJV , TPT)
+	- [ ] a chosen generation 
+	- God wants my life to show forth His praises 
+	- I WOULD BROADCAST HIS GLORIOUS WONDERS
+	- INTERNATIONAL CONTRACTS ARE COMING TO ME THIS YEAR 
+	- Foreign contacts
+	- wisdom for all circumstances, wisdom for my business,for my cell, for my ministry, for my family, for my finances, for my education, fory craftsmanship, wisdom for everything I do 
+	- The word of God is strengthening my hands
+	- The Word of God is strengthening the hands of the partners
+		- I have been strengthened to get money for partnership 
+	- The Lord is increasing the grace, with wisdom and knowledge and understanding 
+	- Divine promotion 
+	- The one who was one let him become ten
+	- I have been chosen by God for this
+	- think SOLUTION
+
+
+
+I am empowered fpr success 
+I am empowered for victory
+
+I can do all things through Christ who strengthens me
+
+All things work together to favour me
+
+I am never handicapped 
+I always have
+I am blessed
+I have solutions,I have answers
+I provide, answers and solutions to men
+I have understanding , supernatural understanding 
+I have wisdom, supernatural wisdom, I have knowledge,I know things by the spirit
+
+The spirit of wisdom and knowledge and understanding 
+
+- I will do well this year
+- I would help many people 
+- the blessing works for me
+
+- [ ] read the seven spirits of God
+

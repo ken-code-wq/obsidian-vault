@@ -96,6 +96,9 @@ A **kernel** is a known function $K(x,t)$ defined on a region in the $(x,t)$-pla
 
 - **Singular**
   - Improper integral (e.g., infinite limits)
+  - $$
+\int_{-1}^{1}\frac{\phi(s)}{s-t}\,ds = f(t),\qquad -1<t<1
+$$
 
 - **Non-Singular**
   - Proper integral

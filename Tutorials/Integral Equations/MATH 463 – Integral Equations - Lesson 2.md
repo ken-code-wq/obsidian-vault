@@ -64,7 +64,7 @@ $$\int_0^x\int_0^{x_1}\cdots\int_0^{x_{n-1}} f(x_n)\,dx_n\cdots dx_1 = \frac{1}{
 
 ---
 
-## 6. General Procedure: IVP → Volterra IE (3rd Order)
+## 6. General Procedure: IVP (3rd Order)→ Volterra IE 
 
 Given: $y''' + p(x)y'' + q(x)y' + r(x)y = g(x)$, with $y(0)=\alpha,\ y'(0)=\beta,\ y''(0)=\gamma$
 

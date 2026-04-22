@@ -1,4 +1,5 @@
 - A set E is said to be finite provided either it is empty or there is a natural number n for which E is equipotent to {1,...,n}
 - We say that, E is countably infinite provided E is equipotent to the set N of natural numbers.
 - A set that is either finite or countably infinite is said to be countable.
+- If a set is equipotent to a countable set, then it is countable
 - 

@@ -1,1 +1,2 @@
-]
+- A set E is said to be finite provided either it is empty or there is a natural number n for which E is equipotent to {1,...,n}
+- 

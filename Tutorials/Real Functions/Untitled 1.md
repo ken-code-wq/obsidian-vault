@@ -1,2 +1,3 @@
 - A set E is said to be finite provided either it is empty or there is a natural number n for which E is equipotent to {1,...,n}
+- We say that, E is countably infinite provided E is equipotent to the set N of natural numbers.
 - 

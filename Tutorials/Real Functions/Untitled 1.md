@@ -4,7 +4,6 @@
 - If a set is equipotent to a countable set, then it is countable
 -
 
-
 ---
 tags:
   - mathematics
@@ -16,83 +15,83 @@ title: Real Functions I - Exam Questions and Solutions
 
 # Real Functions I: Concept Archive
 
-[cite_start]This note compiles definitions, theorems, and proofs from the Real Functions I course materials[cite: 30, 55, 89]. 
+This note compiles definitions, theorems, and proofs from the Real Functions I course materials. 
 
 ## 1. Core Definitions
 
-* [cite_start]**Open Set**: A set $S$ of real numbers is said to be an open set provided for each $x \in S$, the interval $(a, b)$ is contained in $S$[cite: 117, 118, 122].
-* [cite_start]**Closed Set**: A set $P$ is said to be closed if and only if the complement of $P$, which is $R \setminus P$, is open[cite: 127, 128, 129, 130].
-* [cite_start]**Borel Set**: A Borel set is a set that can be constructed by repeatedly taking countable unions and intersections of closed or open sets.
-* **Outer Measure**: The outer measure $m^*(A)$ of a set $A$ is the infimum of all the set sums such that the sets cover $A$.
+* **Open Set**: A set $S$ of real numbers is said to be an open set provided for each $x \in S$, the interval $(a, b)$ is contained in $S$.
+* **Closed Set**: A set $P$ is said to be closed if and only if the complement of $P$, which is $R \setminus P$, is open.
+* **Borel Set**: A Borel set is a set that can be constructed by repeatedly taking countable unions and intersections of closed or open sets.
+* **Outer Measure**: The outer measure $m^*(A)$ of a set $A$ is the infimum of all the set sums such that the sets cover $A$. 
+* **Simple Function**: A simple function is a finite sum $\sum_{i=1}^{n}a_i \chi_{A_i}$ where the functions $\chi_{A_i}$ are characteristic functions on a set $A$. A simple function is integrable.
 
 ---
 
 ## 2. Fundamental Proofs in Measure Theory
 
 ### Monotonicity of Outer Measure
-[cite_start]**Question:** If $A \subset B$, show that $m^*(A) \le m^*(B)$[cite: 21, 58, 100].
+**Question:** If $A \subset B$, show that $m^*(A) \le m^*(B)$.
 
 **Proof:**
-* [cite_start]We have to show that $B = A \cup (B \setminus A)$[cite: 121].
-* [cite_start]Therefore, $m^*(B) = m^*(A) + m^*(B \setminus A)$[cite: 121].
-* [cite_start]Because measure is non-negative, this implies that $m^*(B) \ge m^*(A)$[cite: 121].
-* [cite_start]Alternatively, if $A \subset U$, then $m^*(A) \le m^*(U)$[cite: 531].
+* We have to show that $B = A \cup (B \setminus A)$.
+* Therefore, $m^*(B) = m^*(A) + m^*(B \setminus A)$.
+* Because measure is non-negative, this implies that $m^*(B) \ge m^*(A)$.
+* Alternatively, if $A \subset U$, then $m^*(A) \le m^*(U)$.
 
 ### Measurability of Sets with Zero Measure
-[cite_start]**Question:** Given that $E \subset R$ and $m^*(E) = 0$, show that $E$ is measurable[cite: 22, 101].
+**Question:** Given that $E \subset R$ and $m^*(E) = 0$, show that $E$ is measurable.
 
 **Proof:**
-* [cite_start]For any arbitrary set $A \subset R$ and $E \subset R$, the subadditivity of outer measure states $m^*(A) \le m^*(A \cap E) + m^*(A \cap \overline{E})$[cite: 125, 126, 133].
-* [cite_start]Since $A \cap E \subset E$ and $m^*(E) = 0$, it implies that $m^*(A \cap E) = 0$[cite: 127].
-* [cite_start]Substituting this yields $m^*(A) \ge 0 + m^*(A \cap \overline{E})$, which simplifies to $m^*(A) \ge m^*(A \cap \overline{E})$[cite: 134, 135].
-* [cite_start]Hence, the set $E$ is measurable[cite: 136].
+* For any arbitrary set $A \subset R$ and $E \subset R$, the subadditivity of outer measure states $m^*(A) \le m^*(A \cap E) + m^*(A \cap \overline{E})$.
+* Since $A \cap E \subset E$ and $m^*(E) = 0$, it implies that $m^*(A \cap E) = 0$.
+* Substituting this yields $m^*(A) \ge 0 + m^*(A \cap \overline{E})$, which simplifies to $m^*(A) \ge m^*(A \cap \overline{E})$.
+* Hence, the set $E$ is measurable.
 
 ### Additivity over Disjoint Measurable Sets
-**Question:** Let $A, B \in R$ with $B$ measurable and $A \cap B = \emptyset$. [cite_start]Show that $m^*(A \cup B) = m^*(A) + m^*(B)$[cite: 65, 66, 102, 103, 288, 289].
+**Question:** Let $A, B \in R$ with $B$ measurable and $A \cap B = \emptyset$. Show that $m^*(A \cup B) = m^*(A) + m^*(B)$.
 
 **Proof:**
-* [cite_start]We can express the union as $A \cup B = ((A \cup B) \cap B) \cup ((A \cup B) \cap \overline{B})$[cite: 291].
-* [cite_start]By applying outer measure, $m^*(A \cup B) = m^*((A \cup B) \cap B) + m^*((A \cup B) \cap \overline{B})$[cite: 292].
-* [cite_start]Since the sets are disjoint, this evaluates to $m^*(B) + m^*(A)$[cite: 293].
-* [cite_start]Therefore, $m^*(A \cup B) = m^*(A) + m^*(B)$[cite: 294].
+* We can express the union as $A \cup B = ((A \cup B) \cap B) \cup ((A \cup B) \cap \overline{B})$.
+* By applying outer measure, $m^*(A \cup B) = m^*((A \cup B) \cap B) + m^*((A \cup B) \cap \overline{B})$.
+* Since the sets are disjoint, this evaluates to $m^*(B) + m^*(A)$.
+* Therefore, $m^*(A \cup B) = m^*(A) + m^*(B)$.
 
 ### Translation Invariance
-**Question:** Show that if $E$ is a measurable set, then each translate $E+y$ of $E$ is also measurable[cite: 37, 105, 315].
+**Question:** Show that if $E$ is a measurable set, then each translate $E+y$ of $E$ is also measurable.
 
 **Proof:**
-* [cite_start]Let $E$ be a measurable set, $A$ be any set, and $y$ be any real number[cite: 321].
-* [cite_start]Using the translation invariance of outer measure, $m^*(A) = m^*(A-y) = m^*((A-y) \cap E) + m^*((A-y) \cap \overline{E})$[cite: 323].
-* [cite_start]This expression is equivalent to $m^*(A \cap (E+y)) + m^*(A \cap (E+y)^c)$[cite: 323].
-* [cite_start]Hence, $E+y$ is measurable[cite: 324].
+* Let $E$ be a measurable set, $A$ be any set, and $y$ be any real number.
+* Using the translation invariance of outer measure, $m^*(A) = m^*(A-y) = m^*((A-y) \cap E) + m^*((A-y) \cap \overline{E})$.
+* This expression is equivalent to $m^*(A \cap (E+y)) + m^*(A \cap (E+y)^c)$.
+* Hence, $E+y$ is measurable.
 
 ---
 
 ## 3. Functions and Integration
 
 ### Simple Functions
-[cite_start]**Question:** Show that the sum and product of two simple functions are simple[cite: 44, 108, 349, 353].
+**Question:** Show that the sum and product of two simple functions are simple.
 
 **Proof Setup:**
-* [cite_start]Let $A_1 = \sum_{i=1}^{N_1} a_i \chi_{F_i}$ and $A_2 = \sum_{j=1}^{N_2} b_j \chi_{F_j}$ be two simple functions[cite: 352, 354].
-* [cite_start]Let $G_{ij} = F_i \cap F_j$, where $G_{ij}$ forms a disjoint family of measurable sets[cite: 354, 358, 359].
-* [cite_start]**Sum:** $A_1 + A_2 = \sum_{i=1}^{N_1} \sum_{j=1}^{N_2} (a_i + b_j)\chi_{G_{ij}}$[cite: 361, 363].
-* [cite_start]**Product:** $A_1 \cdot A_2 = \sum_{i=1}^{N_1} \sum_{j=1}^{N_2} a_i b_j \chi_{G_{ij}}$[cite: 364].
+* Let $A_1 = \sum_{i=1}^{N_1} a_i \chi_{F_i}$ and $A_2 = \sum_{j=1}^{N_2} b_j \chi_{F_j}$ be two simple functions.
+* Let $G_{ij} = F_i \cap F_j$, where $G_{ij}$ forms a disjoint family of measurable sets.
+* **Sum:** $A_1 + A_2 = \sum_{i=1}^{N_1} \sum_{j=1}^{N_2} (a_i + b_j)\chi_{G_{ij}}$.
+* **Product:** $A_1 \cdot A_2 = \sum_{i=1}^{N_1} \sum_{j=1}^{N_2} a_i b_j \chi_{G_{ij}}$.
 
 ### Limits and Step Functions
-[cite_start]**Question:** Prove that $\lim_{n \rightarrow \infty} \int_{-\infty}^{\infty} f(x) \cos(nx) dx = 0$ for every step function $f$[cite: 48, 69, 83, 112, 428, 429].
+**Question:** Prove that $\lim_{n \rightarrow \infty} \int_{-\infty}^{\infty} f(x) \cos(nx) dx = 0$ for every step function $f$.
 
 **Proof:**
-* [cite_start]Consider the integral over an interval $[a, b]$: $\int_a^b \cos(nx) dx = \frac{1}{n} \sin(nx) |_a^b$[cite: 163, 443].
-* [cite_start]Evaluating the bounds gives $\frac{1}{n}[\sin(nb) - \sin(na)]$[cite: 165, 444].
-* [cite_start]As $n \rightarrow \infty$, this expression goes to $0$[cite: 167, 168, 180, 445].
+* Consider the integral over an interval $[a, b]$: $\int_a^b \cos(nx) dx = \frac{1}{n} \sin(nx) |_a^b$.
+* Evaluating the bounds gives $\frac{1}{n}[\sin(nb) - \sin(na)]$.
+* As $n \rightarrow \infty$, this expression goes to $0$.
 
 ---
 
 ## 4. Major Convergence Theorems
 
 ### Bounded Convergence Theorem
-[cite_start]**Statement:** Let $\{f_n\}$ be a sequence of measurable functions on a set of finite measure $E$[cite: 225]. Suppose there is a real number $M$ such that $|f_n(x)| [cite_start]\le M$ on $E$[cite: 225]. [cite_start]If $f_n \rightarrow f$ pointwise on $E$, then $\int_E f = \lim \int_E f_n$[cite: 226, 227].
-
+**Statement:** Let $\{f_n\}$ be a sequence of measurable functions on a set of finite measure $E$. Suppose there is a real number $M$ such that $|f_n(x)| \le M$ on $E$. If $f_n \rightarrow f$ pointwise on $E$, then $\int_E f = \lim \int_E f_n$.
 
 **Proof (via Littlewood's Third Principle):**
 * By Littlewood's third principle, if $\{f_n\}$ converges to $f$ pointwise on a set of finite measure, it converges nearly uniformly. 

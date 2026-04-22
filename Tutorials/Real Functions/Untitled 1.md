@@ -22,8 +22,8 @@ title: Real Functions I - Exam Questions and Solutions
 
 * [cite_start]**Open Set**: A set $S$ of real numbers is said to be an open set provided for each $x \in S$, the interval $(a, b)$ is contained in $S$[cite: 117, 118, 122].
 * [cite_start]**Closed Set**: A set $P$ is said to be closed if and only if the complement of $P$, which is $R \setminus P$, is open[cite: 127, 128, 129, 130].
-* [cite_start]**Borel Set**: A Borel set is a set that can be constructed by repeatedly taking countable unions and intersections of closed or open sets[cite: 131, 136, 137, 138].
-* [cite_start]**Outer Measure**: The outer measure $m^*(A)$ of a set $A$ is the infimum of all the set sums such that the sets cover $A$[cite: 141, 142, 145]. 
+* [cite_start]**Borel Set**: A Borel set is a set that can be constructed by repeatedly taking countable unions and intersections of closed or open sets.
+* **Outer Measure**: The outer measure $m^*(A)$ of a set $A$ is the infimum of all the set sums such that the sets cover $A$[cite: 141, 142, 145]. 
 
 ---
 
